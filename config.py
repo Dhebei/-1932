@@ -1,5 +1,5 @@
 name_tool       =  "#1932"
-version    =  "1.0.1"
+version    =  "1.0.0"
 language   =  "EN"
 creator         =  "3s_2"
 Discord        =  "discord.gg/ZZT6PBM8MP"
